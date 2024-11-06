@@ -2,6 +2,8 @@ import pygame
 import sys
 import random
 
+#i love naming my varibles stupid stuff but this was for a grade so i had to actaully name them in a way my teacher could read
+
 # pygame stuff
 pygame.init()
 
