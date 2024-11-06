@@ -3,6 +3,7 @@ import sys
 import random
 
 #i love naming my varibles stupid stuff but this was for a grade so i had to actaully name them in a way my teacher could read
+#i spent 3 hours on this but i only had the hackatime tracker for 2 but losing one hour is worth it for the funny skeleton man
 
 # pygame stuff
 pygame.init()
