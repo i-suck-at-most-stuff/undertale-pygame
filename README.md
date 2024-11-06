@@ -1,6 +1,6 @@
 # Undertale Pygame Edition
 ### i made this for my CS Class Summative and decieded to track it cause i need to grind the hackclub highseas hours, i need that brick of fudge from the place next to hq, anyways this is the plan write up i had to write up for it
-## also you can play the game here: 
+## also you can play the game here: [Click Here to go to CodeHS](https://codehs.com/sandbox/joshisyes/undertale-pygame-edition)
 
 ## the game plan
 ### import and setup pygame
